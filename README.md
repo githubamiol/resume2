@@ -1,6 +1,6 @@
 # Amiel John Erquiza
-# 09363301914 
-# amieljohnerquiza@yahoo.com
+ 09363301914 
+ amieljohnerquiza@yahoo.com
 
 #
 #
