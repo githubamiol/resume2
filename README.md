@@ -1,2 +1,4 @@
 <head>
- <title> Amiel John Erquiza </title>
+  Amiel John Erquiza 
+ <p> 09363301914
+  amieljohnerquiza@yahoo.com </p>
