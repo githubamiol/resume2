@@ -2,7 +2,8 @@
 <html lang="en"> 
 
 <head>
-  <title> Amiel John Erquiza </title>
+   Amiel John Erquiza 
+  
   <p> 09363301914 </p>
   <p> amieljohnerquiza@yahoo.com </p>
   
